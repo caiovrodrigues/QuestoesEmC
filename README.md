@@ -21,7 +21,7 @@ calcule o novo salário. Se o cargo do funcionário não estiver na tabela, ele 
 aumento. Mostre o salário antigo, o novo salário e a diferença. Utilize Structs e função utilizando 
 ponteiros.
 
-Código Cargo Percentual
-101 Gerente 10%
-102 Engenheiro 20%
+Código Cargo Percentual<br/>
+101 Gerente 10%<br/>
+102 Engenheiro 20%<br/>
 103 Técnico 30%
