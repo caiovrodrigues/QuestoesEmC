@@ -1,4 +1,4 @@
-# QuestoesEmC
+# Atividade sobre ponteiros e funções que eu fiz na matéria de Algoritmo e programação, Prof: João Evangelista - UCB
 
 ## Questão 1
 1. Escreva uma função mm que receba um vetor inteiro v[0..n-1] e os endereços de duas variáveis 
